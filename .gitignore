@@ -1,0 +1,22 @@
+# =========================
+# MATLAB / Simulink
+# =========================
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.log
+*.tmp
+
+# Simulink generated files
+slprj/
+*.slxc
+
+# MATLAB Live Editor autosave
+*.mlx.autosave
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
